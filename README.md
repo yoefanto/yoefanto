@@ -23,7 +23,7 @@
 | Category | Technologies |
 | :--- | :--- |
 | **Languages & Frontend** | JavaScript, TypeScript, Next.js, React, HTML5, CSS3, Tailwind CSS |
-| **Backend & APIs** | Node.js, Express.js, Laravel 5.1+, PHP |
+| **Backend & APIs** | Node.js, Express.js, Laravel, Code Igniter, PHP |
 | **Databases** | PostgreSQL, Oracle (10g / OCI8), MySQL |
 | **DevOps & Tools** | Git, GitHub, Docker, WSL (Ubuntu), VS Code, Postman |
 
