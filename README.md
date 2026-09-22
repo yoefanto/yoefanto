@@ -32,5 +32,7 @@
 ---
 
 ### 📬 Connect with Me
+- **Direct Email:** [yoefanto@gmail.com](mailto:yoefanto@gmail.com)
+- **Linkedin:** [https://linkedin.com/in/yoefanto](https://linkedin.com/in/yoefanto)
 - **Portfolio:** [yoefanto.vercel.app](https://yoefanto.vercel.app)
 - **GitHub:** [@yoefanto](https://github.com/yoefanto)
