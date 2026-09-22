@@ -1,14 +1,3 @@
-- 👋 Hi, I’m @yoefanto
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning next.js, postgre 
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me by email
-
-<!---
-yoefanto/yoefanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <div align="center">
   <h1>Hi there, I'm Yogi Febrianto 👋</h1>
   <p><b>Full-Stack Software Engineer & Web Developer</b></p>
@@ -38,15 +27,6 @@ You can click the Preview link to take a look at your changes.
 | **Databases** | PostgreSQL, Oracle (10g / OCI8), MySQL |
 | **DevOps & Tools** | Git, GitHub, Docker, WSL (Ubuntu), VS Code, Postman |
 
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=yoefanto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoefanto&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
